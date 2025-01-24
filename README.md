@@ -92,6 +92,9 @@ yarn add axios
 
 ---
 
+![image](https://github.com/user-attachments/assets/bdb5ca49-1150-453a-9538-255552005e97)
+
+
 ## Event Loop
 
 **Event Loop** (“Цикл событий”) — это механизм в JavaScript, который обеспечивает выполнение операций ввода/вывода и асинхронного кода, несмотря на однопоточность языка.
