@@ -21,6 +21,7 @@ npm install axios
 ```bash
 yarn add axios
 ```
+![image](https://github.com/user-attachments/assets/7895bff2-fcac-4180-b435-19805a98516f)
 
 ### Основные возможности Axios
 
